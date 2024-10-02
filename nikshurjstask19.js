@@ -44,3 +44,55 @@ alert(ab);
 /*task35_1*/
 let bc=null;
 alert(bc);
+/*task36_1*/
+let t=true;
+alert(t);
+/*task36_2*/
+let f=false;
+alert(f);
+/*task37_1*/
+let x='abc';
+let y='def';
+alert(x*y);
+/*task38_1*/
+alert(10/0);
+/*task38_2*/
+alert(-10/0);
+/*task39_1*/
+let num1=123;
+console.log(num1);
+/*task39_2*/
+num1=123;
+let num2=456;
+let num3=789;
+console.log(num1,num2,num3);
+/*task40_1*/
+let st='abc';
+let s=123;
+let m=12.5;
+let h=true;
+console.log(s);
+console.log(m);
+console.log(h);
+/*task41_1*/
+//alert(eee);
+/*task42_1*/
+const PI=3.14
+let r=4;
+alert(PI*r**2);
+//task45_1
+let u='2';
+let e='3';
+alert(+u+ +e);
+//task47_1
+let p=parseInt('5px');
+let xx=parseInt('6px');
+alert(p+xx);
+//task47_2
+p=parseFloat('5.5px');
+xx=parseFloat('6.25px');
+alert(p+xx);
+//task48_1
+r=1;
+u=2;
+alert(String(r)+String(u));
