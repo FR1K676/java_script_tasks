@@ -96,3 +96,21 @@ alert(p+xx);
 r=1;
 u=2;
 alert(String(r)+String(u));
+//task49_1
+let n=123;
+alert(String(n).length);
+//task49_2
+n=123;
+u=2;
+alert(String(n).length+ String(u).length);
+//task52_1
+let z='abcde';
+alert(z[0]+z[2]+z[4]);
+//task52_2
+z='abcde';
+let v=z[4]+z[3]+z[2]+z[1]+z[0];
+alert(v);
+//task52_3
+z='abcdef';
+v=4;
+alert(z[v]);
