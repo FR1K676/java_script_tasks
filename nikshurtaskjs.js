@@ -92,6 +92,20 @@ console.log((1024**3)*10);
 console.log(1024**4);
 //task66_10
 console.log(1024**3);
+//task67_1
+let r=2;
+const pi=3.14;
+let s=r**2*pi;
+alert(s);
+//task68_1
+let arr=[1,2,3,4,5];
+alert(arr);
+console.log(arr);
+//task68_2
+let arrstr=['1','2','3','4']
+alert(arrstr);
+console.log(arrstr);
+
 
 
 
