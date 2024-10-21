@@ -22,3 +22,11 @@ task86.a=1;
 task86.b=2;
 task86.c=3;
 console.log(task86);
+//task88
+let task88 = {x: 1, y: 2, z: 3};
+let keys=Object.keys(task88);
+console.log(keys);
+//task89
+let task89={x: 1, y: 2, z: 3};
+let key89=Object.keys(task89);
+console.log(key89.length);
